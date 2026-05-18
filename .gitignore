@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual envs
+.venv/
+venv/
+.env
+
+# Jupyter / IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 实验产物（体量大；开源时通常不包含）
+results/
+
+# 本地数据集（让用户自行下载；避免误传大文件）
+dataset/torchvision/
+
+# matplotlib 字体缓存
+.mpl_cache/
