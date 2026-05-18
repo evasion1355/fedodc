@@ -97,7 +97,7 @@ bash baselines/run_baselines.sh
 
 - 项目名称：非独立同分布场景下基于数据浓缩的联邦图像分类（FedODC）
 - 项目作者：李星源
-- 作者单位：天津大学网络空间安全学院
+- 作者单位：暨南大学网络空间安全学院
 - 开发语言：Python
 - 框架：PyTorch
 - 核心技术：联邦学习、数据浓缩、SWD 切片 Wasserstein 距离、Non-IID 数据划分、DiffAugment 可微增广、非对称监督对比学习
